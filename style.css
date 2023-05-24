@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+}
+
+img{
+    width: 20rem;
+    height: rem;
+    border: px;
+    border-color: rgb(223, 133, 24);
+    border-radius: 100%;
+}
